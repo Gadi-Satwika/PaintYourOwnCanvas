@@ -17,7 +17,8 @@
     <hr style="width:10%">
     <canvas id="canvas1" onmousedown = "startPaint()" onmousemove = "doPaint(event.offsetX,event.offsetY)" onmouseup = "endPaint()" style="text-align:center"></canvas>
     <p>Brush Color
-        <input type="color" value="#000" onchange = "changeColor(this.value)"/>BrushSize
+        <input type="color" value="#000" onchange = "changeColor(this.value)"/>
+        BrushSize
         <input type="range" min="1" max="50" value="0" id="sizeinput" oninput = "reSize(this.value)"/>
     </p>
     <input type="button" value="Clear Canvas" onclick = "clearCanvas()" style="margin-left:45%;background-color: lightblue;width:120px;height: 40px;border:none"/>
