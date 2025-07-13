@@ -1,0 +1,17 @@
+ canvas{
+        border: 1px solid gray;
+        background-color: white;
+        margin-left: 38%;
+}
+body{
+        background-image: url("https://img.freepik.com/free-vector/abstract-watercolor-background_23-2149038179.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1719964800&semt=ais_user");
+        background-repeat: no-repeat;
+        background-size: 100%;
+}
+p{
+        text-align: center;
+}
+h1{
+        text-align:center;
+        text-decoration: underline;
+}
