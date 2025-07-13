@@ -1,4 +1,4 @@
-#🎨 Paint Canvas Web App
+# 🎨 Paint Canvas Web App
 
 A simple and interactive web-based paint application that allows users to draw on a digital canvas using their mouse. Built using HTML, CSS, and JavaScript, this tool mimics basic features of MS Paint in the browser.
 
